@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(52,52,52);
+}
+p{
+    color: rgba(188, 80, 144, 1);
+}
+img{
+    border-radius: 20px;
+}
+h1{
+    color: rgba(88, 80, 141, 1);
+}
